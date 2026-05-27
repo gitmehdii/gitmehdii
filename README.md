@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mehdi%20AZOUZ&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%7C%20NLP%20%7C%20Computer%20Vision&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mehdi%20AZOUZ&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=38&desc=ML%20Engineer%20%7C%20NLP%20%7C%20Computer%20Vision&descAlignY=58&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+intelligent+systems+%F0%9F%A4%96;World+Models+%7C+NLP+%7C+Computer+Vision;4th+year+student+%40+EPITA+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=120&lines=Building+intelligent+systems+%F0%9F%A4%96;World+Models+%7C+NLP+%7C+Computer+Vision;4th+year+student+%40+EPITA+%F0%9F%8E%93" alt="Typing SVG" />
 
 </div>
 
