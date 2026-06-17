@@ -65,7 +65,7 @@ Under the hood it uses **MiniCPM4-8B** (fine-tuned on SQuAD) for question genera
 <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,html,css&theme=dark" />
 
 ### 🔧 Tools
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,jupyter,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,docker&theme=dark" />
 
 ---
 
